@@ -1,0 +1,25 @@
+{
+  "name": "frontend",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "ethers": "^6.7.1",
+    "moralis-v1": "^1.13.0",
+    "next": "latest",
+    "react": "latest",
+    "react-dom": "latest",
+    "react-moralis": "^1.4.2",
+    "web3uikit": "^1.0.4"
+  },
+  "devDependencies": {
+    "autoprefixer": "latest",
+    "postcss": "latest",
+    "tailwindcss": "latest"
+  }
+}
